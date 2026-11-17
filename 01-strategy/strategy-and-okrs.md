@@ -1,4 +1,4 @@
-# Product Strategy & OKRs
+# Product Strategy & OKRs: Fable Growth
 
 > Module 1 · Write a Strategy That Can Survive a Test
 
@@ -6,26 +6,26 @@
 
 | Question | Your choice |
 |---|---|
-| **Winning aspiration** | _____ |
-| **Where to play** | _____ |
-| **How to win** | _____ |
-| **Capabilities required** | _____ |
-| **Management systems** | _____ |
+| **Winning aspiration** | Fable becomes the wellbeing app people keep for life’s next hard stretch, not just the one they came for, so that its most engaged users stay paying members well beyond their first 90 days. We win when graduated users are still subscribed at day 180 and measurably better off, not just more engaged. |
+| **Where to play** | We focus on 25-to-45-year-olds at day 60 to 120 who have come through a rough patch using Fable, because they are our best premium converters and our most predictable leavers. We play in wellness skill-building and self-management, and we stay out of clinical treatment, public community features, and an open-ended AI therapist, since each runs into regulatory, liability, or trust problems. |
+| **How to win** | We win by owning a user’s personal record of what worked for them, using it to hand them a Playbook at graduation, keep a light rhythm going, and offer a one-tap way back when stress returns. Headspace and Calm sell broad calm, and AI apps sell generic on-demand support, but neither holds a user’s own history of what helped when it counted, and that trust compounds over time. |
+| **Capabilities required** | We need first-party personalization that sequences content from each user’s history, content restructured into skill arcs and playbooks rather than a bigger catalog, and clinical advisors who review all wellbeing-skills language so we stay clear of treatment claims. We also need privacy-first handling of mood, sleep, and trigger data, which the 14-person team can deliver in two squads: Graduation & Playbook, and Rhythm & Return. |
+| **Management systems** | We run a gated 12-month roadmap and stop if Phase 1 shows no lift in day-180 retention for graduated users. Alongside that we track return-on-need, win-back rate, and a wellbeing guardrail (e.g., WHO-5) so we know engagement reflects real benefit, with a standing clinical and regulatory review on all copy and data use. |
 
 ## 2. Your one hard no
 
-> **Hard no:** _____
+> **Hard no:** We will not build a generative AI chatbot that acts as a therapist or counselor. It crosses our regulatory line, erodes the trust that is our moat, and puts us in a feature race against AI apps we can’t win.
 
 ## 3. OKR cascade
 
-> **Objective:** _____
+> **Objective:** Make Fable the place users stay with and return to after their acute phase passes, so graduating from a hard stretch becomes the start of a lasting relationship rather than the end of one.
 >
-> - **KR1:** _____
-> - **KR2:** _____
-> - **KR3:** _____
+> - **KR1:** Increase day-180 paid retention of graduated high-engagers from [baseline] to [baseline + X pts], measured against a holdout cohort.
+> - **KR2:** Reach a 40% return-on-need rate, meaning lapsed or low-activity users who re-engage within 7 days of a rough-week tap or user-set trigger.
+> - **KR3:** Maintain or improve wellbeing for engaged users, with average WHO-5 scores at or above baseline at day 180, so retention gains reflect real benefit and not dependency.
 
 ## 4. AI pressure-test
 
-**Most valid challenge:** _____
+**Most valid challenge:** That a user who feels fine still has a felt, recurring need that Fable can serve. The whole strategy rests on “resolution changes the need rather than ending it,” but nothing in the data you’ve described shows it. Your churn analysis shows people leave once the acute phase resolves, which is equally consistent with they were right to leave. Playbooks, rhythm, and return paths all assume graduates will accept a light-touch relationship while feeling well. If the real behavior is “I’m better, I’m done, and if stress returns I’ll Google it or try a new app,” then you’ve built a graduation ceremony that accelerates exits. The strategy treats this as a hypothesis in Phase 0, but the aspiration, KRs, and team structure are all written as if it were already true.
 
-**What I will change and what I will defend:** _____
+**What I will change and what I will defend:** Aspiration:	 Be the wellbeing app people return to when stress returns, so that graduates with recurring need stay or come back as paying members, and are measurably better off. Where to play: Graduates (user-confirmed) at day 60 to 120 who show signals of recurring need. Wellness skill-building only. Not clinical, not public community, not open-ended generative counseling. How to win: Own each user’s longitudinal record of what worked for them. Use it to deliver a Playbook, a light rhythm, and a return path, and test a private accountability partner to add social commitment. Capabilities: First-party personalization, restructured content arcs, consented mood/sleep/trigger data, and clinical review of all wellbeing language. Two squads of the 14. Management systems: Phase 0 evidence gate with stated thresholds, then a gated 12-month plan with explicit stop criteria and a wellbeing guardrail. The “How to win” choice is the one worth defending, specifically the claim that Fable should own each user’s longitudinal record of what worked for them. Why this one? It’s the only choice a competitor can’t copy quickly. Headspace and Calm can match a Playbook feature in a quarter, and AI apps can out-generate us on novelty. Nobody can replicate a user’s own history of what helped them when it counted. That history takes time to accumulate and gets more valuable as it does, which is a real moat, not a feature. It answers the board’s actual problem. The retention crisis exists because users leave once the acute need resolves. A record of what worked for me gives them a reason to stay or return that doesn’t depend on feeling bad right now. Switching to another app means starting from zero. Everything else is downstream of it. The Playbook, the rhythm, and the return path are all ways of using that record. If this claim holds, the other choices follow. If it fails, they all fail, so it’s where the strategy lives or dies. It fits every constraint. It builds on the core content rather than replacing it, stays in wellness self-management rather than clinical territory, works within freemium and premium, and is buildable by 14 people. It resolves the internal fight without appeasing anyone. It borrows CBT’s structure, avoids the community liability, and gives content a purpose beyond volume. That’s a position, not a compromise.
